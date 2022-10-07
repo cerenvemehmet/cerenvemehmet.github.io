@@ -1116,6 +1116,7 @@
 
 .md6{
 			width:100% !important;
+			
 		}
 		#footer {
 			margin-top: -2.5em;
@@ -1133,10 +1134,6 @@
 				#footer .inner .contact {
 					margin: 0 0 3em 0;
 				}
-	.referans {
-		  filter:brightness(0) invert(1);
-		  width:25% !important;
-		}
 		#modal{
 				height: initial; max-height: 100% !important; max-width: 100% !important; width: initial;
 			}
@@ -1144,20 +1141,10 @@
 	}
 
 	@media screen and (max-width: 480px) {
-		#spn_demo_credis{
-			float:right; position:relative; bottom:60px;
-		}
-		#spn_demo_crediscore{
-			float:right; position:relative; bottom:50px;
-		}
-		.linkedin_paylasim{
-			padding:10px;
-			width:100% !important;
-			height:300px !important;
-		}
-		#a_reelsektor{margin-top:4.5%;}
+
 		.md6{
 			width:100% !important;
+			
 		}
 		#footer .inner .copyright li {
 			border-left: 0;
@@ -1165,17 +1152,10 @@
 			margin: 1em 0 0 0;
 			padding-left: 0;
 		}
-
 			#footer .inner .copyright li:first-child {
 				margin-top: 0;
 			}
-	.referans {
-		  filter:brightness(0) invert(1);
-		  width:60% !important;
-		}
-		#reelSektor{
-			margin-top:2.7%;
-		}
+
 		#modal{
 				height: initial; max-height: 100% !important; max-width: 100% !important; width: initial;
 			}
