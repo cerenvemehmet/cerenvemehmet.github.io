@@ -1,0 +1,37 @@
+.image_slider{
+  width:100%;
+}
+.container_slider{
+  max-width: 750px;
+  max-height: 80px;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.logo-slider .item{
+  background-color: #fff;
+  border-radius: 20px;
+  object-fit: contain;
+}
+
+.logo-slider .slick-slide{
+  margin:15px;
+  object-fit: contain;
+}
+
+.slick-dots li.slick-active button:before{
+  color: #4262d4;
+  object-fit: contain;
+}
+
+.slick-dots li button:before{
+  font-size:12px;
+  object-fit: contain;
+}
+.slick-next:before,
+.slick-prev:before{
+  color:#4262d4;
+  font-size: 24px;
+  object-fit: contain;
+}
+
